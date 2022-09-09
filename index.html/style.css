@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+h1{
+    padding: auto;
+    color:rgb(254, 250, 244);
+    text-shadow: 2px 5px 6px wheat;
+    font-family: sans-serif;
+    text-align: center;
+    height: 70px;
+    background-color: rgb(30, 30, 30);
+}
+
+header{
+   
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(91, 97, 102);
+}
+
+a{
+    color:black;
+}
+
+#p11{
+    text-align: end;
+    padding: 7px;
+    color: antiquewhite;
+}
+
+#div1{
+    background-color:rgb(210, 195, 136);
+   text-align: justify;
+   text-align: center;
+   font-family: Arial;
+   font-size: 15px;
+   height: 300px;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   margin-bottom: 20px;
+}
+
+#p1{
+    font-size: 20px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration: underline brown;
+}
+
+#input1{
+    margin-top: 30px;
+}
+
+#p2{  
+   
+    text-transform: capitalize;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+#div2{
+    background-color:powderblue;
+    border-radius: 30px;
+}
+
+#img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 150px;
+}
+
+#h3n1{
+    text-align: center;
+    padding: 10px;
+}
+
+#p3{
+    text-align:center;
+}
+
+#img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 150px;
+}
+#h3n2{
+    text-align: center;
+    padding: 10px;
+}
+
+#p4{
+    text-align: center;
+}
+
+#img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 150px;
+}
+
+#p5{
+    text-align: center;
+    padding: 15px;
+}
+
+#div3{
+    background-color:rgba(243, 241, 169, 0.802);
+    border-radius: 50px;
+    margin: 20px;
+}
+
+#h3n3{
+    text-align: center;
+    padding: 20px;
+}
+ 
+#p6{
+    text-align: center;
+    border: salmon;
+    border-style: solid;
+    padding: 10px;
+
+}
+
+#p7{
+    text-align:center;
+    padding: 20px;
+}
+
+img{
+    border-radius: 20px;
+    padding: 4px;
+}
+
+#div4{
+    background-color: grey;
+    padding-bottom: 10px;
+}
+
+#p8{
+    padding-top: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+#p9{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#div5{
+    background-color:rgba(120, 31, 31, 0.842);
+    margin-bottom: 50px;
+}
+
+#p10{
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#img4{
+   text-align: center;
+   color: aliceblue;
+}
